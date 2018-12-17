@@ -1,1 +1,1 @@
-# wp2pilots
+To find more information about this pilot and relevant background please visit: https://github.com/EURITO/wp2pilots/blob/master/Pilot3/Technological%20Change%20-%20Bioenergy%20-%20EURITO%20Workshop%20Sept%202018-compressed.pdf
