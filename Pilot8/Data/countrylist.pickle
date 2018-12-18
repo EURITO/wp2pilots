@@ -1,0 +1,372 @@
+(lp0
+S'Germany'
+p1
+aS'Netherlands'
+p2
+aS'Italy'
+p3
+aS'Poland'
+p4
+aS'Spain'
+p5
+aS'United Kingdom'
+p6
+aS'Israel'
+p7
+aS'Austria'
+p8
+aS'Sweden'
+p9
+aS'Greece'
+p10
+aS'Niger'
+p11
+aS'Tanzania (United Republic of)'
+p12
+aS'United States'
+p13
+aS'Belgium'
+p14
+aS'Denmark'
+p15
+aS'Romania'
+p16
+aS'Japan'
+p17
+aS'Ireland'
+p18
+aS'Great Britain and Northern Ireland'
+p19
+aS'Serbia'
+p20
+aS'Montenegro'
+p21
+aS'France'
+p22
+aS'Switzerland'
+p23
+aS'Former Yugoslav Republic of Macedonia'
+p24
+aS'Bosnia and Herzegovina'
+p25
+aS'Slovenia'
+p26
+aS'Croatia'
+p27
+aS'Iceland'
+p28
+aS'Czech Republic'
+p29
+aS'Portugal'
+p30
+aS'Turkey'
+p31
+aS'Finland'
+p32
+aS'Norway'
+p33
+aS'Hungary'
+p34
+aS'Mexico'
+p35
+aS'Brazil'
+p36
+aS'Bolivia'
+p37
+aS'Guyana'
+p38
+aS'Papua New Guinea'
+p39
+aS'Fiji'
+p40
+aS'Bulgaria'
+p41
+aS'Malta'
+p42
+aS'Estonia'
+p43
+aS'Canada'
+p44
+aS"China (People's Republic of)"
+p45
+aS'Lithuania'
+p46
+aS'Australia'
+p47
+aS'Luxembourg'
+p48
+aS'Cyprus'
+p49
+aS'Slovakia'
+p50
+aS'New Zealand'
+p51
+aS'Latvia'
+p52
+aS'Ukraine'
+p53
+aS'South Africa'
+p54
+aS'Morocco'
+p55
+aS'Senegal'
+p56
+aS'Colombia'
+p57
+aS'Tunisia'
+p58
+aS'Kenya'
+p59
+aS'Uganda'
+p60
+aS'India'
+p61
+aS'Mali'
+p62
+aS'Russian Federation'
+p63
+aS'Argentina'
+p64
+aS'Chile'
+p65
+aS'Lebanon'
+p66
+aS'Iraq'
+p67
+aS'Gibraltar'
+p68
+aS'Jordan'
+p69
+aS'Viet Nam'
+p70
+aS'Korea (Republic of)'
+p71
+aS'Greenland'
+p72
+aS'Egypt'
+p73
+aS'Ethiopia'
+p74
+aS'Georgia'
+p75
+aS'Algeria'
+p76
+aS'Zambia'
+p77
+aS'Burkina Faso'
+p78
+aS'Costa Rica'
+p79
+aS'Seychelles'
+p80
+aS'Belarus'
+p81
+aS'Azerbaijan'
+p82
+aS'Armenia'
+p83
+aS'Nepal'
+p84
+aS'Sri Lanka'
+p85
+aS'Bangladesh'
+p86
+aS'Afghanistan'
+p87
+aS'Bhutan'
+p88
+aS'Pakistan'
+p89
+aS'Thailand'
+p90
+aS'Maldives'
+p91
+aS'Palestinian-administered areas'
+p92
+aS'Indonesia'
+p93
+aS'Uruguay'
+p94
+aS'Kosovo * UN resolution'
+p95
+aS"Cote d'Ivoire"
+p96
+aS'Rwanda'
+p97
+aS'Ghana'
+p98
+aS'Madagascar'
+p99
+aS'Botswana'
+p100
+aS'Cape Verde'
+p101
+aS'Cameroon'
+p102
+aS'Nigeria'
+p103
+aS'Benin'
+p104
+aS'Malaysia'
+p105
+aS'Mozambique'
+p106
+aS'Anguilla'
+p107
+aS'Philippines'
+p108
+aS'New Caledonia'
+p109
+aS'Albania'
+p110
+aS'Moldova (Republic of)'
+p111
+aS'Taiwan'
+p112
+aS'Peru'
+p113
+aS'Gabon'
+p114
+aS'Nicaragua'
+p115
+aS'Ecuador'
+p116
+aS'Kyrgyzstan'
+p117
+aS'Guatemala'
+p118
+aS'Singapore'
+p119
+aS'Namibia'
+p120
+aS'Lesotho'
+p121
+aS'Hong Kong'
+p122
+aS'Iran (Islamic Republic of)'
+p123
+aS'San Marino'
+p124
+aS'Syrian Arab Republic'
+p125
+aS'Zimbabwe'
+p126
+aS'Liechtenstein'
+p127
+aS'Macao'
+p128
+aS'Faroe Islands'
+p129
+aS'Kazakhstan'
+p130
+aS'Mauritius'
+p131
+aS'Jamaica'
+p132
+aS'Burundi'
+p133
+aS'Swaziland'
+p134
+aS'Malawi'
+p135
+aS'UNKNOWN'
+p136
+aS'Cuba'
+p137
+aS'French Polynesia'
+p138
+aS'Cambodia'
+p139
+aS'Jersey'
+p140
+aS'Sudan'
+p141
+aS'Virgin Islands (British)'
+p142
+aS'Congo (Democratic Republic of)'
+p143
+aS'Support for training and career development of researchers (Marie Curie)'
+p144
+aS'Grenada'
+p145
+aS'Liberia'
+p146
+aS'Paraguay'
+p147
+aS'Mongolia'
+p148
+aS'Trinidad and Tobago'
+p149
+aS'Uzbekistan'
+p150
+aS'Tajikistan'
+p151
+aS'Congo'
+p152
+aS'Togo'
+p153
+aS'Myanmar'
+p154
+aS'Turkmenistan'
+p155
+aS'United Arab Emirates'
+p156
+aS'Saudi Arabia'
+p157
+aS"Lao (People's Democratic Republic)"
+p158
+aS'Haiti'
+p159
+aS'Central African Republic'
+p160
+aS'Mauritania'
+p161
+aS'Honduras'
+p162
+aS'Panama'
+p163
+aS'Somalia'
+p164
+aS'Angola'
+p165
+aS'Venezuela'
+p166
+aS'Oman'
+p167
+aS'Suriname'
+p168
+aS'Dominican Republic'
+p169
+aS'Barbados'
+p170
+aS'Netherlands Antilles'
+p171
+aS'El Salvador'
+p172
+aS'Vanuatu'
+p173
+aS'Samoa'
+p174
+aS'Brunei Darussalam'
+p175
+aS'Libyan Arab Jamahiriya'
+p176
+aS'French Guiana'
+p177
+aS'Yemen'
+p178
+aS'Marshall Islands'
+p179
+aS'Sierra Leone'
+p180
+aS'Guinea'
+p181
+aS'Guinea-Bissau'
+p182
+aS'Qatar'
+p183
+aS'Bahrain'
+p184
+aS'Kuwait'
+p185
+a.
